@@ -66,7 +66,10 @@ From the Prerequisite files install the VC_redist.x86.exe
 </p>
 
 <p> 
-From the Prerequisite files install MySQL 5.5.62 Filename example:(mysql-5.5.62-win32) select Typical Setup and check the box after installation that says Launch the MySQL Instance Configuration Wizard.
+From the Prerequisite files install MySQL 5.5.62 Filename example:(mysql-5.5.62-win32) select Typical Setup and check the box after installation that says Launch the MySQL Instance Configuration Wizard.<br />
+  <p>
+  <img src="https://i.imgur.com/Ha9fxy2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
 </p>
 When MySQL Instance Configuration Wizard gets launched, select standard configuration and next. 
 <p>
@@ -153,28 +156,50 @@ Go to security tab and click advanced. </b>
 Click "Disable inheritance" then Click on "Remove all inherited permissions from this object"
 </p>
 
+<img src="https://i.imgur.com/S5m5r8p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/BTDBrPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
  Click on add and then click "Select a principal" </b>
  In the little text box type "everyone" and click the "check names" buttion.</b>
  Click ok.</b>
- Check the "full Control" box and click OK</b>
- Click Apply and OK
+
+<img src="https://i.imgur.com/ZyAQJbm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
+ Check the "full Control" box and click OK.</b>
+<img src="https://i.imgur.com/6vzzS3l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+  Click Apply and OK.
 </p>
 
 <p>
 From the Prerequisite files, Install Heidi SQL. (Filename example: HeidiSQL_12.3.0.6589_Setup.exe)</b>
 You do not need to change any settings here, just install the default settings.</b>
-Make sure the "Launch HeidiSQLL box is checks and finish the install.
+Make sure the "Launch HeidiSQLL box is checked and finish the install.
 </p>
 
 <p>
 For this tutorial we wont be updating HeidiSQL so skip the self update. </b>
+
+<img src="https://i.imgur.com/lFhKUQt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 At the bottom left click on "New"</b>
+
+<img src="https://i.imgur.com/REwEIpG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Fill out the root password you made earlier and click open.
+
+<img src="https://i.imgur.com/z7TQONT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <p>
-  Now Right-click on "Unnamed-1", select create new, and then database.
+  Now Right-click on "Unnamed", select create new, and then database.
+
+<img src="https://i.imgur.com/uPplxie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
   Under "Name" write "osTicket" then click ok.
 </p>
 
