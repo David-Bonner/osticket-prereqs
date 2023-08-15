@@ -202,7 +202,10 @@ Fill out the root password you made earlier and click open.
 <img src="https://i.imgur.com/uPplxie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   
-  Under "Name" write "osTicket" then click ok.
+  Under "Name" write "osTicket" then click ok.</br>
+
+<img src="https://i.imgur.com/2fhSgYB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 </p>
 
 <p>
@@ -211,9 +214,17 @@ Click Continue.</b>
 </p>
 <p>
  Fill out your Help Desk's relavant information.</b>
+ <p>
+  For this demonstration, I will fill the Primary administrator account info with my name.
+</p>
+ 
  Under "database Settings" your "mySQL Database" is "osTicket", "MySQL Username" is "root", and your password will be your root password you set earlier.</b>
+<p> 
+<img src="https://i.imgur.com/U8hRPbv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+ 
  Click Install Now.
- </p>
 
 <p>
   Thats it for the installation of osTicket v1.15.8 
