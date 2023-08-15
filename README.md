@@ -49,8 +49,10 @@ Go back to the Application development features folder and navagate to Common HT
 </p>
 
 <p>
-From the Prerequisite files install the PHP Manager for IIS installatiion file. Filename example: (PHPManagerForIIS_v1.5.0.msi)<br />
-Do the same with the Prerequisite file Rewrite Module. Filename example: (rewrite_amd64_en-US.msi) and install it.
+From the Prerequisite files install the PHP Manager for IIS installatiion file.<br />
+  Filename example: (PHPManagerForIIS_v1.5.0.msi)<br />
+Do the same with the Prerequisite file Rewrite Module.<br />
+  Filename example: (rewrite_amd64_en-US.msi) and install it.
 </p>
 <br />
 
